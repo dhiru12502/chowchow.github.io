@@ -1,0 +1,86 @@
+#note{
+  background: yellow;
+  color: black;
+  margin: 450px;
+
+
+}
+.box{
+  border-style: solid;
+  border-color: skyblue;
+  border-radius: 2px;
+  height: 350px;
+  position: relative;
+  top: 30px;
+  color: white;
+  border-radius: 8px;
+  margin: 50px;
+}
+.data{
+  position: relative;
+  left: 20px;
+
+}
+#name{
+  color: black;
+  border-radius: 5px;
+}
+.bg{
+  background: black;
+}
+.white{
+  color: white;
+  margin-left: 300px;
+}
+#checkbox{
+  background: yellow;
+  margin-left: -2px
+}
+#submit{
+  color:white;
+  background: dodgerblue;
+  position: relative;
+  left:40px;
+  top: 30px;
+
+}
+.rad{
+  margin-left: -1px;
+}
+.aage{
+  margin-left: 55px;
+}
+#sub{
+  margin-right: 30px;
+
+}
+.bx{
+ font-size: 20px;
+ position: relative;
+ margin-right: 1000px;
+ top: 100px;
+ left: 360px;
+ bottom: auto;
+ color: white;
+ border: 1px white;
+  border-style: solid;
+  border-radius: 10px;
+  height: 240px;
+  width: 400px;
+}
+.lm{
+  margin-left: -280px;
+}
+.andarkacontent{
+  position: relative;
+  left: 120px;
+  top:30px
+
+
+}
+#forgot{
+  position: relative;
+  top: 50px;
+  left: 10px;
+
+}

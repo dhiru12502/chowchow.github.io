@@ -1,0 +1,25 @@
+.bg{
+  background: black;
+}
+.data{
+  margin-left: 50px;
+ position: relative;
+  top: 50px;
+  font-size: 17px;
+}
+.box{
+  
+  border-style: solid;
+  border-color: skyblue;
+  border-radius: 2px;
+  height: 350px;
+  position: relative;
+  top: 30px;
+  left:90px;
+  color: white;
+  border-radius: 8px;
+  margin: 60px;
+  margin-right:460px;
+  margin-left: 300px;
+  
+}
